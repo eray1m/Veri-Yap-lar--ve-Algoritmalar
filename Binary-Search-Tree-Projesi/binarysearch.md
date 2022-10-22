@@ -4,7 +4,7 @@
 
  ## Yapılmak İstenen
 
- ![](Binary-Search-Tree/Binary.png)
+ ![](/Binary-Search-Tree/Binary.png)
 
  ## Yapılan
 
