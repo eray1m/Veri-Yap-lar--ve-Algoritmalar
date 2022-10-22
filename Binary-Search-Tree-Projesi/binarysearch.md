@@ -4,7 +4,7 @@
 
  ## Yapılmak İstenen
 
- <a href="/Binary-Search-Tree/Binary.png" alt="Yapılmak İstenen">
+ ![](Binary-Search-Tree/Binary.png)
 
  ## Yapılan
 
