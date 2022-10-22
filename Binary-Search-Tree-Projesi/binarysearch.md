@@ -4,7 +4,7 @@
 
  ## Yapılmak İstenen
 
- ![](Veri-Yapilari-ve-Algoritmalar/Binary-Search-Tree-Projesi/Binary.png)
+ ![](Binary-Search-Tree-Projesi/Binary.png)
 
  ## Yapılan
 
