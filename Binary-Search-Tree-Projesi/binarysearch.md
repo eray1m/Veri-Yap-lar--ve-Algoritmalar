@@ -4,7 +4,7 @@
 
  ## Yapılmak İstenen
 
- ![](Binary-Search-Tree-Projesi/Binary.png)
+ ![](/Binary-Search-Tree-Projesi/Binary.png)
 
  ## Yapılan
 
@@ -12,4 +12,4 @@
 
  [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisi;
  * Root 6dır. Root'un sağında 6dan büyük sayılar, Root'un solunda 6dan küçük sayılar bulunur.  
- <a href="/Binary-Search-Tree/Binary-Tree.png" alt="Yapılan">
+ ![](/Binary-Search-Tree-Projesi/Binary-Tree.png)
