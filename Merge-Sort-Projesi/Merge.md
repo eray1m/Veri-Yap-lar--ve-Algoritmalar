@@ -4,7 +4,7 @@
 
  ## Yapılmak İstenen
 
- <a href="Merge-Sort-Projesi/Merge.png" alt="Yapılmak İstenen">
+ ![](/Merge-Sort-Projesi/Merge.png)
 
  ## Yapılan
 
